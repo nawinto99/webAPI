@@ -25,7 +25,7 @@ AS
 		FROM CALENDAR
 		WHERE CALENDAR_YEAR_MONTH >= A.min_ACTIVITY_YEAR_MONTH) AS B)
 
---Fetch the Member Compete activity data from starting to all the calender months
+--Fetch the Member Complete activity data from starting to all the calender months
 ,
 [MEMBER_COMPLETE_ACTVITY]
 AS
