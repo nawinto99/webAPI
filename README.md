@@ -1,12 +1,12 @@
 # webAPI
 
-## install
+## INSTALL
 
 ```
 pip install -r requirements.txt
 ```
 
-## run
+## RUN
 ```
 python app.py
 ```
